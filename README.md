@@ -11,3 +11,7 @@ Este repositório foi criado para centralizar a resolução de exercícios prát
 🏗️ Aplicar conceitos de Programação Orientada a Objetos (POO).
 
 📂 Manter um histórico de evolução técnica.
+
+Links dos exercicios:
+
+1 - https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
