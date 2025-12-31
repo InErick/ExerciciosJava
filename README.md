@@ -1,1 +1,13 @@
-# ExerciciosJava
+# Exercícios Java
+
+Este repositório foi criado para centralizar a resolução de exercícios práticos em Java. O foco principal é o fortalecimento da lógica de programação e a aplicação de conceitos fundamentais e avançados da linguagem.
+
+🎯 Objetivos -
+
+🚀 Praticar a sintaxe da linguagem Java.
+
+🧠 Aperfeiçoar o raciocínio lógico e algoritmos.
+
+🏗️ Aplicar conceitos de Programação Orientada a Objetos (POO).
+
+📂 Manter um histórico de evolução técnica.
