@@ -14,4 +14,4 @@ Este repositório foi criado para centralizar a resolução de exercícios prát
 
 Links dos exercicios:
 
-1 - https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
+1 DIO "Lista de Exercícios para treinar Lógica de Programação" - https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
