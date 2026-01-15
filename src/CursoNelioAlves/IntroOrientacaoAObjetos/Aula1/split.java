@@ -1,4 +1,4 @@
-package CursoNelioAlves;
+package CursoNelioAlves.IntroOrientacaoAObjetos.Aula1;
 
 import java.util.Arrays;
 
